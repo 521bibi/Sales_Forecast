@@ -1,0 +1,55 @@
+2021-05-07 15:37:09,661 - __main__ - INFO - Start print log
+2021-05-07 15:37:09,661 - __main__ - WARNING - Something maybe fail.
+2021-05-07 15:37:09,661 - __main__ - INFO - Finish
+2021-05-07 15:37:59,207 - __main__ - INFO - Start print log
+2021-05-07 15:37:59,212 - __main__ - WARNING - Something maybe fail.
+2021-05-07 15:37:59,212 - __main__ - INFO - Finish
+2021-05-07 15:39:02,352 - __main__ - INFO - Start print log
+2021-05-07 15:39:02,352 - __main__ - WARNING - Something maybe fail.
+2021-05-07 15:39:02,353 - __main__ - INFO - Finish
+2021-05-07 15:40:42,280 - __main__ - INFO - Start print log
+2021-05-07 15:40:42,280 - __main__ - WARNING - Something maybe fail.
+2021-05-07 15:40:42,280 - __main__ - INFO - Finish
+2021-05-07 15:41:00,362 - __main__ - INFO - Start print log
+2021-05-07 15:41:00,402 - __main__ - WARNING - Something maybe fail.
+2021-05-07 15:41:00,402 - __main__ - INFO - Finish
+2021-05-07 15:42:15,802 - __main__ - INFO - Start print log
+2021-05-07 15:42:15,802 - __main__ - WARNING - Something maybe fail.
+2021-05-07 15:42:15,803 - __main__ - INFO - Finish
+2021-05-07 15:42:15,814 - __main__ - INFO - mean_squared_error: 34.144080
+2021-05-07 15:42:15,815 - __main__ - INFO - mean_squared_log_error: 0.033254
+2021-05-07 15:45:19,696 - __main__ - INFO - Start print log
+2021-05-07 15:45:19,697 - __main__ - WARNING - Something maybe fail.
+2021-05-07 15:45:19,697 - __main__ - INFO - Finish
+2021-05-07 15:45:19,707 - __main__ - INFO - mean_squared_error: 34.144080
+2021-05-07 15:45:19,707 - __main__ - INFO - mean_squared_log_error: 0.033254
+2021-05-07 15:45:19,708 - __main__ - INFO - mean_squared_error: 5.843294
+2021-05-07 15:45:19,708 - __main__ - INFO - mean_squared_error: 13.983765
+2021-05-07 15:45:54,327 - __main__ - INFO - Start print log
+2021-05-07 15:45:54,327 - __main__ - WARNING - Something maybe fail.
+2021-05-07 15:45:54,328 - __main__ - INFO - Finish
+2021-05-07 15:45:54,338 - __main__ - INFO - mean_squared_error: 34.14
+2021-05-07 15:45:54,339 - __main__ - INFO - mean_squared_log_error: 0.03
+2021-05-07 15:45:54,340 - __main__ - INFO - mean_squared_error: 5.84
+2021-05-07 15:45:54,340 - __main__ - INFO - mean_squared_error: 86.02%
+2021-05-07 15:46:24,985 - __main__ - INFO - Start print log
+2021-05-07 15:46:24,986 - __main__ - WARNING - Something maybe fail.
+2021-05-07 15:46:24,986 - __main__ - INFO - Finish
+2021-05-07 15:46:24,998 - __main__ - INFO - mean_squared_error: 34.14
+2021-05-07 15:46:24,999 - __main__ - INFO - mean_squared_log_error: 0.03
+2021-05-07 15:46:24,999 - __main__ - INFO - RMSE: 5.84
+2021-05-07 15:46:24,999 - __main__ - INFO - 准确度: 86.02%
+2021-05-07 15:48:42,906 - __main__ - INFO - Start print log
+2021-05-07 15:48:42,908 - __main__ - WARNING - Something maybe fail.
+2021-05-07 15:48:42,908 - __main__ - INFO - Finish
+2021-05-07 15:48:42,922 - __main__ - INFO - mean_squared_error: 34.14
+2021-05-07 15:48:42,922 - __main__ - INFO - mean_squared_log_error: 0.03
+2021-05-07 15:48:42,923 - __main__ - INFO - RMSE: 5.84
+2021-05-07 15:48:42,923 - __main__ - INFO - 准确度: 86.02%
+2021-05-07 15:49:34,183 - __main__ - INFO - Start print log
+2021-05-07 15:49:34,184 - __main__ - WARNING - Something maybe fail.
+2021-05-07 15:49:34,184 - __main__ - INFO - Finish
+2021-05-07 15:49:34,197 - __main__ - INFO - mean_squared_error: 34.14
+2021-05-07 15:49:34,198 - __main__ - INFO - mean_squared_log_error: 0.03
+2021-05-07 15:49:34,198 - __main__ - INFO - RMSE: 5.84
+2021-05-07 15:49:34,198 - __main__ - INFO - 准确度: 86.02%
